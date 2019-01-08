@@ -66,9 +66,9 @@
             this.lblSource.Location = new System.Drawing.Point(6, 36);
             this.lblSource.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.lblSource.Name = "lblSource";
-            this.lblSource.Size = new System.Drawing.Size(165, 16);
+            this.lblSource.Size = new System.Drawing.Size(13, 16);
             this.lblSource.TabIndex = 1;
-            this.lblSource.Text = "\\\\Mac\\Home\\Pictures\\Snap";
+            this.lblSource.Text = "-";
             // 
             // btnPreScan
             // 
